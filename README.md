@@ -1,4 +1,5 @@
 # hello-world
 
-This is my first repository.
+My first repository on Github.
+
 Following tutorial @ https://guides.github.com/activities/hello-world/
